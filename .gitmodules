@@ -1,0 +1,6 @@
+[submodule "submodule"]
+	path = submodule
+	url = ./
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/gitFILO/submodule.git
