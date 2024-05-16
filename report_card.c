@@ -8,4 +8,5 @@ void main(){
 	printf("Sum grade: 190 \n");
 	printf("Average grade: 95 \n");
 	printf("change here\n");
+	printf("commit 1"\n);
 }
